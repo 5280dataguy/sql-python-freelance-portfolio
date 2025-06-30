@@ -11,4 +11,4 @@ Welcome! This repo showcases my freelance work in data automation, reporting, an
 ## 💼 About Me
 
 I'm a freelance data specialist focused on helping teams clean, analyze, and automate their workflows.  
-📧 Reach me: your.email@example.com  
+📧 Reach me: frontrangeprovisions@gmail.com  
